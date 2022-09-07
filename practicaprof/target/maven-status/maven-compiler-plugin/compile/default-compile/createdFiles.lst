@@ -1,0 +1,14 @@
+ar\com\practicaprof\controller\RolesController.class
+ar\com\practicaprof\CorsConfiguration.class
+ar\com\practicaprof\controller\HomeController.class
+ar\com\practicaprof\WebConfig.class
+ar\com\practicaprof\dao\IRolesDao.class
+ar\com\practicaprof\services\IRolesService.class
+ar\com\practicaprof\utiles\PageWrapper.class
+ar\com\practicaprof\PracticaprofApplication.class
+ar\com\practicaprof\CorsConfiguration$1.class
+ar\com\practicaprof\controllerrest\RolesRestController.class
+ar\com\practicaprof\utiles\PageWrapper$PageItem.class
+ar\com\practicaprof\entities\Roles.class
+ar\com\practicaprof\ServletInitializer.class
+ar\com\practicaprof\servicesimp\RolesService.class
